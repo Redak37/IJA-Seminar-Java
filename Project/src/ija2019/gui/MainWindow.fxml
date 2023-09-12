@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+
+<BorderPane xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ija2019.gui.MainWindowController">
+    <center>
+        <TabPane fx:id="tabPane" />
+    </center>
+   <bottom>
+        <HBox alignment="CENTER_RIGHT" BorderPane.alignment="CENTER_RIGHT">
+         <children>
+            <Button onAction="#addChess" text="Nová hra - Šachy" />
+            <Button onAction="#addCheckers" text="Nová hra - Checkers" />
+         </children>
+        </HBox>
+   </bottom>
+</BorderPane>

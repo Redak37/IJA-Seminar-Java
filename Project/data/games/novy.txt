@@ -1,0 +1,10 @@
+1. pd2d4 pc7c5
+2. pd4xc5 pd7d6
+3. pc5xd6 Jb8c6
+4. pe2e3 Jc6d4
+5. pe3xd4 pb7b6
+6. Sf1c4 ph7h6
+7. pc2c3 pg7g5
+8. Dd1a4+ Sc8d7
+9. Sc4b5 Dd8b8
+10. Sb5xd7+ Ke8d8
